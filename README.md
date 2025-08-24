@@ -1,21 +1,3 @@
-### Hi there 👋
-
-<!--
-**Sosotess93/Sosotess93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 # Hi there! 👋 I'm Sofiane
 
 <div align="center">
@@ -97,7 +79,7 @@ Here are some ideas to get you started:
 ## 🐍 Snake eating my contributions
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/VOTRE_USERNAME/Sosotess93/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Sosotess93/Sosotess93/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ## 🔥 Recent Activity
@@ -119,8 +101,8 @@ Here are some ideas to get you started:
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=VOTRE_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/VOTRE_USERNAME?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=Sosotess93&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Sosotess93?label=Followers&style=social" alt="GitHub followers" />
 </div>
 
 <div align="center">
