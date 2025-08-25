@@ -72,6 +72,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Sosotess93&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sosotess93&theme=dark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+
 ## 📊 Contribution Stats
 
 <div align="center">
