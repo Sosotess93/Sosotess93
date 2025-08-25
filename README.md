@@ -58,8 +58,6 @@
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Sosotess93" alt="GitHub Streak" /></a>
 </div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sosotess93)](https://git.io/streak-stats)
-
 ## 📈 Activity Graph
 
 <div align="center">
