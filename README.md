@@ -93,6 +93,18 @@
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
+## 📊 Developer Metrics
+
+<div align="center">
+  
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sosotess93&theme=tokyonight" alt="GitHub Streak" />
+  
+  <!-- Contribution Calendar -->
+  <img src="https://ghchart.rshah.org/Sosotess93" alt="GitHub Chart" />
+  
+</div>
+
 ## 📫 Connect with me
 
 <div align="center">
